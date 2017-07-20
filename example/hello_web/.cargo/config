@@ -1,0 +1,2 @@
+[target.mipsel-unknown-linux-musl]
+linker = "/home/sam/cross_compile/source/staging_dir/toolchain-mipsel_24kc_gcc-5.4.0_musl-1.1.16/bin/mipsel-openwrt-linux-musl-gcc"
