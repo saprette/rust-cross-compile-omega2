@@ -1,3 +1,5 @@
 example/hello-world/target
 example/hello_web/target
-Cargo.lock
+*.lock
+*.iml
+*.idea
