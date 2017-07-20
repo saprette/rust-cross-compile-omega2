@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["saprette <talaran.goo@gmail.com>"]
 
 [dependencies]
-rustful = "0.9"
+tiny_http = "0.5"
